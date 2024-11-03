@@ -40,3 +40,7 @@
   * [03 - March 2022](osint-ezine/2022/03-march-2022.md)
   * [02 - February 2022](osint-ezine/2022/02-february-2022.md)
   * [01 - January 2022](osint-ezine/2022/01-january-2022.md)
+
+***
+
+* [🔏 Privacy Policy](privacy-policy.md)
