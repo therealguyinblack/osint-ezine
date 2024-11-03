@@ -2,7 +2,7 @@
 
 ## 📰 OSINT eZine
 
-* [All eZine Issues](README.md)
+* [🥷 -](README.md)
 * [2024](osint-ezine/2024/README.md)
   * [10 - October 2024](osint-ezine/2024/10-october-2024.md)
   * [09 - September 2024](osint-ezine/2024/09-september-2024.md)

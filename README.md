@@ -1,4 +1,23 @@
-# All eZine Issues
+---
+cover: .gitbook/assets/Untitled design.png
+coverY: 164.10666666666668
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🥷 -
 
 | [![](.gitbook/assets/OSINT\_eZine-202410.png)](osint-ezine/2024/10-october-2024.md)                                   | [![](.gitbook/assets/OSINT\_eZine-202409.png)](osint-ezine/2024/09-september-2024.md) | [![](.gitbook/assets/OSINT\_eZine-202408.png)](osint-ezine/2024/08-august-2024.md)                                     |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
