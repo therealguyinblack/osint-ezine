@@ -6,25 +6,25 @@ Welcome to the October issue of the OSINT eZine (_#44_). This issue includes top
 
 Hey Ho, Lets Go!:
 
-* [AI: Apple Introduced it's AI Engine... not for EU Users.](10-october-2024.md#ai-apple-introduced-its-ai-engine...-not-for-eu-users)
-* [AI: Google Unveils Invisible ‘Watermark’ for AI-generated Text.](10-october-2024.md#ai-google-unveils-invisible-watermark-for-ai-generated-text)
-* [AI: Influence and Cyber Operations.](10-october-2024.md#ai-influence-and-cyber-operations)
-* [Crypto: Google Integrating ENS.](10-october-2024.md#crypto-google-integrating-ens)
-* [Crypto: Key Takeways from EU DeFi Policy Roundtable.](10-october-2024.md#crypto-key-takeways-from-eu-defi-policy-roundtable)
-* [Learning: Misinformation and its Consequences.](10-october-2024.md#learning-misinformation-and-its-consequences)
-* [Learning: Southeast Asia Cyberfraud Industry.](10-october-2024.md#learning-southeast-asia-cyberfraud-industry)
-* [News: Neo-Nazis Fleeing From Telegram to SimpleX Chat.](10-october-2024.md#news-neo-nazis-fleeing-from-telegram-to-simplex-chat)
-* [News: Where is Emmanuel Macron right now? Ask his Bodyguards.](10-october-2024.md#news-where-is-emmanuel-macron-right-now-ask-his-bodyguards)
-* [Privacy: Google Will Track Your Location Every 15 Minutes.](10-october-2024.md#privacy-google-will-track-your-location-every-15-minutes)
-* [Privacy: Is My Phone Listening to Me?](10-october-2024.md#privacy-is-my-phone-listening-to-me)
-* [Privacy: Post Quantum Cryptography (PQC): You May Already Be Using It!](10-october-2024.md#privacy-post-quantum-cryptography-pqc-you-may-already-be-using-it)
-* [Privacy: The Increasing Market of Advertisement Data.](10-october-2024.md#privacy-the-increasing-market-of-a-dvertisement-data)
-* [Techniques: Airwars and Sky News Investigation.](10-october-2024.md#techniques-airwars-and-sky-news-investigation)
-* [Techniques: Investigating Geolocation.](10-october-2024.md#techniques-investigating-geolocation)
-* [Techniques: Social Media Overt Covert Reaction Networks.](10-october-2024.md#techniques-social-media-overt-covert-reaction-networks)
-* [Techniques: Tracing Celebrity Locations.](10-october-2024.md#techniques-tracing-celebrity-locations)
-* [Tools: Domain Digger.](10-october-2024.md#tools-domain-digger)
-* [Tools: Ethereum Graph Visualizer.](10-october-2024.md#tools-ethereum-graph-visualiser)
+* [AI: **Apple Introduced it's AI Engine... not for EU Users.**](10-october-2024.md#ai-apple-introduced-its-ai-engine...-not-for-eu-users)
+* [AI: **Google Unveils Invisible ‘Watermark’ for AI-generated Text.**](10-october-2024.md#ai-google-unveils-invisible-watermark-for-ai-generated-text)
+* [AI: **Influence and Cyber Operations.**](10-october-2024.md#ai-influence-and-cyber-operations)
+* [Crypto: **Google Integrating ENS.**](10-october-2024.md#crypto-google-integrating-ens)
+* [Crypto: **Key Takeways from EU DeFi Policy Roundtable.**](10-october-2024.md#crypto-key-takeways-from-eu-defi-policy-roundtable)
+* [Learning: **Misinformation and its Consequences.**](10-october-2024.md#learning-misinformation-and-its-consequences)
+* [Learning: **Southeast Asia Cyberfraud Industry.**](10-october-2024.md#learning-southeast-asia-cyberfraud-industry)
+* [News: **Neo-Nazis Fleeing From Telegram to SimpleX Chat.**](10-october-2024.md#news-neo-nazis-fleeing-from-telegram-to-simplex-chat)
+* [News: **Where is Emmanuel Macron right now? Ask his Bodyguards.**](10-october-2024.md#news-where-is-emmanuel-macron-right-now-ask-his-bodyguards)
+* [Privacy: **Google Will Track Your Location Every 15 Minutes.**](10-october-2024.md#privacy-google-will-track-your-location-every-15-minutes)
+* [Privacy: **Is My Phone Listening to Me?**](10-october-2024.md#privacy-is-my-phone-listening-to-me)
+* [Privacy: **Post Quantum Cryptography (PQC): You May Already Be Using It!**](10-october-2024.md#privacy-post-quantum-cryptography-pqc-you-may-already-be-using-it)
+* [Privacy: **The Increasing Market of Advertisement Data.**](10-october-2024.md#privacy-the-increasing-market-of-a-dvertisement-data)
+* [Techniques: **Airwars and Sky News Investigation.**](10-october-2024.md#techniques-airwars-and-sky-news-investigation)
+* [Techniques: **Investigating Geolocation.**](10-october-2024.md#techniques-investigating-geolocation)
+* [Techniques: **Social Media Overt Covert Reaction Networks.**](10-october-2024.md#techniques-social-media-overt-covert-reaction-networks)
+* [Techniques: **Tracing Celebrity Locations.**](10-october-2024.md#techniques-tracing-celebrity-locations)
+* [Tools: **Domain Digger.**](10-october-2024.md#tools-domain-digger)
+* [Tools: **Ethereum Graph Visualizer.**](10-october-2024.md#tools-ethereum-graph-visualiser)
 
 ***
 
@@ -50,7 +50,7 @@ There is an increase need to identify AI-generated content. From images to video
 
 Another report by OpenAI, creators of ChatGPT, exploring how bad actors abused AI technologies to perform different operations such as influence campaigns.
 
-[https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update\_October-2024.pdf](https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update\_October-2024.pdf)\
+[https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update\_October-2024.pdf](https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update_October-2024.pdf)\
 
 
 ***
@@ -106,7 +106,7 @@ This entry has the two sides of the history. The first one, is an article from W
 
 Another episode of relevant information disclosed on Strava, in this case, the security team of Emmanuel Macron. By browsing the public data shared by the President's security agents on the sports social network, the journalists of "Le Monde" were able to track some of the President's international movements, or even anticipate them. On their investigation, they found at least 12 members of his unit composed of gendarmes and police officers, to have published their performances in running on the social network (which records sports activities via GPS) with place of departure and place of arrival.
 
-[https://www.liberation.fr/politique/emmanuel-macron-pouvait-etre-piste-grace-a-ses-gardes-du-corps-sur-strava-revele-le-monde-20241027\_EF3BPJJ4DVC53DX6CRVBAY457U/](https://www.liberation.fr/politique/emmanuel-macron-pouvait-etre-piste-grace-a-ses-gardes-du-corps-sur-strava-revele-le-monde-20241027\_EF3BPJJ4DVC53DX6CRVBAY457U/)\
+[https://www.liberation.fr/politique/emmanuel-macron-pouvait-etre-piste-grace-a-ses-gardes-du-corps-sur-strava-revele-le-monde-20241027\_EF3BPJJ4DVC53DX6CRVBAY457U/](https://www.liberation.fr/politique/emmanuel-macron-pouvait-etre-piste-grace-a-ses-gardes-du-corps-sur-strava-revele-le-monde-20241027_EF3BPJJ4DVC53DX6CRVBAY457U/)\
 
 
 ***
