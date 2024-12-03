@@ -6,40 +6,40 @@ Welcome to the November issue of the OSINT eZine (_#45_). This issue includes to
 
 Hey Ho, Lets Go!:
 
-* AI: Deepfakes in eKYC.
-* AI: The EU Code of Practice for General-Purpose AI.
-* AI: Transformers Explainer.
-* AI: Which Countries are Leading in AI?
-* Crypto: Court Overturns US Sanctions Against Tornado Cash.
-* Crypto: Exploring the Future of AI Agents in Crypto.
-* Crypto: TON Teleport BTC.
-* Learning: 30 Years of Trends in Terrorist and Extremist Games.
-* Learning: Block Explorer Beginners Guide.
-* Learning: Foundations of Operationalizing MITRE ATT\&CK.
-* Learning: How A Russian APT Weaponized Nearby Wi-Fi Networks.
-* Learning: The use of Generative Artificial Intelligence to Facilitate Trafficking in Persons.
-* Learning: Understanding LLMs using Middle School Math.
-* News: Australian Parliament Bans Social Media for Under-16s.
-* News: Joint Statement on Transition to Post-Quantum Cryptography.
-* News: Politicians Exposed in the Dark Web.
-* Privacy: How Italy Became an Unexpected Spyware Hub.
-* Privacy: Top 200 Most Common Passwords in 2024.
-* Techniques: Are AI Search Engines Reliable?
-* Techniques: Conducting OSINT in Gaza, Lebanon and Israel.
-* Techniques: Deanonymize Anonymous Telegram Channels in Two Clicks.
-* Techniques: Detecting and Analysing Disinformation.
-* Techniques: Infrastructure Intelligence by Using Certificates.
-* Techniques: Investigating Resources for BlueSky.
-* Tools: Favicorn.
-* Tools: FiDigger.
-* Tools: JSON Crack.
-* Web3: Free Training on Web3.
+* [AI: **Deepfakes in eKYC.**](11-november-2024.md#ai-deepfakes-in-ekyc)
+* [AI: **The EU Code of Practice for General-Purpose AI.**](11-november-2024.md#ai-the-eu-code-of-practice-for-general-purpose-ai)
+* [AI: **Transformers Explainer.**](11-november-2024.md#ai-transformers-explainer)
+* [AI: **Which Countries are Leading in AI?**](11-november-2024.md#ai-which-countries-are-leading-in-ai)
+* [Crypto: **Court Overturns US Sanctions Against Tornado Cash.**](11-november-2024.md#crypto-court-overturns-us-sanctions-against-tornado-cash)
+* [Crypto: **Exploring the Future of AI Agents in Crypto.**](11-november-2024.md#crypto-exploring-the-future-of-ai-agents-in-crypto)
+* [Crypto: **TON Teleport BTC.**](11-november-2024.md#crypto-ton-teleport-btc)
+* [Learning: **30 Years of Trends in Terrorist and Extremist Games.**](11-november-2024.md#learning-30-years-of-trends-in-terrorist-and-extremist-games)
+* [Learning: **Block Explorer Beginners Guide.**](11-november-2024.md#learning-block-explorer-beginners-guide)
+* [Learning: **Foundations of Operationalizing MITRE ATT\&CK.**](11-november-2024.md#learning-foundations-of-operationalizing-mitre-att-and-ck)
+* [Learning: **How A Russian APT Weaponized Nearby Wi-Fi Networks.**](11-november-2024.md#learning-how-a-russian-apt-weaponized-nearby-wi-fi-networks)
+* [Learning: **The use of Generative Artificial Intelligence to Facilitate Trafficking in Persons.**](11-november-2024.md#learning-the-use-of-generative-artificial-intelligence-to-facilitate-trafficking-in-persons)
+* [Learning: **Understanding LLMs using Middle School Math.**](11-november-2024.md#learning-understanding-llms-using-middle-school-math)
+* [News: **Australian Parliament Bans Social Media for Under-16s.**](11-november-2024.md#news-australian-parliament-bans-social-media-for-under-16s)
+* [News: **Joint Statement on Transition to Post-Quantum Cryptography.**](11-november-2024.md#news-joint-statement-on-transition-to-post-quantum-cryptography)
+* [News: **Politicians Exposed in the Dark Web.**](11-november-2024.md#news-politicians-exposed-in-the-dark-web)
+* [Privacy: **How Italy Became an Unexpected Spyware Hub.**](11-november-2024.md#privacy-how-italy-became-an-unexpected-spyware-hub)
+* [Privacy: **Top 200 Most Common Passwords in 2024.**](11-november-2024.md#privacy-top-200-most-common-passwords-in-2024)
+* [Techniques: **Are AI Search Engines Reliable?**](11-november-2024.md#techniques-are-ai-search-engines-reliable)
+* [Techniques: **Conducting OSINT in Gaza, Lebanon and Israel.**](11-november-2024.md#techniques-conducting-osint-in-gaza-lebanon-and-israel)
+* [Techniques: **Deanonymize Anonymous Telegram Channels in Two Clicks.**](11-november-2024.md#techniques-deanonymize-anonymous-telegram-channels-in-two-clicks)
+* [Techniques: **Detecting and Analyzing Disinformation.**](11-november-2024.md#techniques-detecting-and-analyzing-disinformation)
+* [Techniques: **Infrastructure Intelligence by Using Certificates.**](11-november-2024.md#techniques-infrastructure-intelligence-by-using-certificates)
+* [Techniques: **Investigating Resources for BlueSky.**](11-november-2024.md#techniques-investigating-resources-for-bluesky)
+* [Tools: **Favicorn.**](11-november-2024.md#tools-favicorn)
+* [Tools: **FiDigger.**](11-november-2024.md#tools-fidigger)
+* [Tools: **JSON Crack.**](11-november-2024.md#tools-json-crack)
+* [Web3: **Free Training on Web3.**](11-november-2024.md#web3-free-training-on-web3)
 
 ***
 
 ### AI: Deepfakes in eKYC.
 
-This analysis investigates the security risks of eKYC (electronic know your customer) systems in relation to deepfake attacks, highlighting the diverse strategies employed by cybercriminals in bypassing eKYC security measures.
+This analysis investigates the security risks of eKYC (electronic know your customer) systems in relation to deepfake attacks, highlighting the diverse strategies employed by cyber-criminals in bypassing eKYC security measures.
 
 [https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/ai-vs-ai-deepfakes-and-ekyc](https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/ai-vs-ai-deepfakes-and-ekyc)\
 
@@ -75,7 +75,7 @@ The Global and National AI Vibrancy Rankings tool provides a comprehensive globa
 
 ### Crypto: Court Overturns US Sanctions Against Tornado Cash.
 
-Writing for a panel comprised of conservative judges, U.S. Circuit Judge Don Willett said federal law only gave OFAC the authority to regulate property, which Tornado Cash's immutable crypto-mixing smart contracts did not constitute.
+Writing for a panel comprised of conservative judges, U.S. Circuit Judge _Don Willett_ said federal law only gave OFAC the authority to regulate property, which Tornado Cash's immutable crypto-mixing smart contracts did not constitute.
 
 [https://www.reuters.com/legal/court-overturns-us-sanctions-against-cryptocurrency-mixer-tornado-cash-2024-11-27/](https://www.reuters.com/legal/court-overturns-us-sanctions-against-cryptocurrency-mixer-tornado-cash-2024-11-27/)\
 
@@ -120,7 +120,7 @@ The vast majority of blockchains are public, that means that users can see the d
 
 ### Learning: Foundations of Operationalizing MITRE ATT\&CK.
 
-For some time, I am trying to adapt MITRE ATT\&CK framework to OSINT. I already successfully adapted it for OPSEC (operational security) but I think that the cyber-threat framework, has a lot of power and opportunities beyond cybersecurity teams. This free training provides the fundamentals about the framework and how to use it.
+For some time, I am trying to adapt the MITRE ATT\&CK framework to OSINT. I already successfully adapted it for OPSEC (operational security) but I think that the cyber-threat framework, has a lot of power and opportunities beyond cybersecurity teams. This free training provides the fundamentals about the framework and how to use it.
 
 [https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck-v13](https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck-v13)\
 
@@ -219,16 +219,16 @@ The Centre for Information Resilience has a very talented team of OSINT experts.
 
 ### Techniques: Deanonymize Anonymous Telegram Channels in Two Clicks.
 
-A clever way of retrieveing information about anonymous Telegram channels, this post explains, and proves, how it is possible to obtain information from anonymous channels by using special crafted stickers and Maltego.
+A clever way of retrieving information about anonymous Telegram channels, this post explains, and proves, how it is possible to obtain information from anonymous channels by using special crafted stickers and Maltego.
 
 [https://hackernoon.com/whats-wrong-with-stickers-in-telegram-deanonymize-anonymous-channels-in-two-clicks](https://hackernoon.com/whats-wrong-with-stickers-in-telegram-deanonymize-anonymous-channels-in-two-clicks)\
 
 
 ***
 
-### Techniques: Detecting and Analysing Disinformation.
+### Techniques: Detecting and Analyzing Disinformation.
 
-A practical guide by the European Union External Action Service (EEAS) on open source intelligence investigations to detect and analyse Foreign Information Manipulation and Interference (FIMI) that weaponise identity-based disinformation (IBD).
+A practical guide by the European Union External Action Service (EEAS) on open source intelligence investigations to detect and analyze Foreign Information Manipulation and Interference (FIMI) that weaponize identity-based disinformation (IBD).
 
 [https://www.eeas.europa.eu/sites/default/files/documents/2024/EEAS-DataTeam-OsintGuidelines-04-Digital.pdf](https://www.eeas.europa.eu/sites/default/files/documents/2024/EEAS-DataTeam-OsintGuidelines-04-Digital.pdf)\
 
@@ -255,7 +255,7 @@ BlueSky is a social media platform from one of the creators of Twitter, that is 
 
 ### Tools: Favicorn.
 
-The favicon is one of the jewels in website investigations that can help us to unmask information about certain service. An example is the tracing on the clearweb of websites hosted in darknets such as Tor. Favicorn is an all-sources tool to search websites by favicons.
+The favicon is one of the jewels in website investigations that can help us to unmask information about certain service. An example is the tracing on the clear web of websites hosted in dark nets such as Tor. Favicorn is an all-sources tool to search websites by favicons.
 
 [https://github.com/sharsil/favicorn](https://github.com/sharsil/favicorn)\
 
