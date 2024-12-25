@@ -44,4 +44,5 @@
 
 ***
 
+* [✍️ Quotes](quotes.md)
 * [🔏 Privacy Policy](privacy-policy.md)
