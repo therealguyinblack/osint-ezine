@@ -137,7 +137,7 @@ The Israel-Gaza Conflict Map is a map of incidents documented by CIR (Centre for
 
 AI bypassed biometric security, leading to a concerning $1.385 million financial fraud risk. This vulnerability highlights the need for improved security measures against sophisticated AI-driven attacks targeting financial systems. The blog post details the methods used and the potential consequences.
 
-\[https://www.forbes.com/sites/daveywinder/2024/12/04/ai-bypasses-biometric-security-in-1385-million-financial-fraud-risk/]\(AI Can Bypass Biometric Banking Security)\
+[https://www.forbes.com/sites/daveywinder/2024/12/04/ai-bypasses-biometric-security-in-1385-million-financial-fraud-risk/](https://www.forbes.com/sites/daveywinder/2024/12/04/ai-bypasses-biometric-security-in-1385-million-financial-fraud-risk/)\
 
 
 ***
