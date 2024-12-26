@@ -19,7 +19,7 @@ layout:
 
 # 🥷 -
 
-|                                                                                      | [![](.gitbook/assets/OSINT_eZine-202411.png)](osint-ezine/2024/11-november-2024.md)                                    | [![](.gitbook/assets/OSINT_eZine-202410.png)](osint-ezine/2024/10-october-2024.md)                                    |
+| [![](.gitbook/assets/OSINT_eZine-202412.png)](osint-ezine/2024/12-december-2024.md)  | [![](.gitbook/assets/OSINT_eZine-202411.png)](osint-ezine/2024/11-november-2024.md)                                    | [![](.gitbook/assets/OSINT_eZine-202410.png)](osint-ezine/2024/10-october-2024.md)                                    |
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | [![](.gitbook/assets/OSINT_eZine-202409.png)](osint-ezine/2024/09-september-2024.md) | [![](.gitbook/assets/OSINT_eZine-202408.png)](osint-ezine/2024/08-august-2024.md)                                      | [![](.gitbook/assets/OSINT_eZine-202407.png)](osint-ezine/2024/07-july-2024.md)                                       |
 | [![](.gitbook/assets/OSINT_eZine-202406.png)](osint-ezine/2024/06-june-2024.md)      | [![](.gitbook/assets/OSINT_eZine-202405.png)](osint-ezine/2024/05-may-2024.md)                                         | [![](.gitbook/assets/OSINT_eZine-202404.png)](osint-ezine/2024/04-april-2024.md)                                      |
