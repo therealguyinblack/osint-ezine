@@ -4,7 +4,23 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 # ✍️ Quotes
 
+***
 
+***
+
+
+
+_Success is a pile of failure that you are standing on._
+
+_\~Dave Ramsey, American radio personality._
+
+***
+
+_There's a thin line between being a hero, and being a memory._
+
+_\~Optimus Prime, Supreme Commander of the Autobots._
+
+***
 
 _Libraries were full of ideas — perhaps the most dangerous and powerful of all weapons._
 
