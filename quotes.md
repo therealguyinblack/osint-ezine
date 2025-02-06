@@ -6,9 +6,11 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 ***
 
+_The fear isn't that big data discriminates. We already know that it does. It's that you don't know if you've been discriminated against._
+
+_\~Kate Crawford, Australian AI researcher._
+
 ***
-
-
 
 _Success is a pile of failure that you are standing on._
 
