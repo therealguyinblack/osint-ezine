@@ -4,8 +4,8 @@
 
 * [🥷 -](README.md)
 * [2025](osint-ezine/2025/README.md)
-  * [01 - January 2025](osint-ezine/2025/01-january-2025.md)
   * [02 - February 2025](osint-ezine/2025/02-february-2025.md)
+  * [01 - January 2025](osint-ezine/2025/01-january-2025.md)
 * [2024](osint-ezine/2024/README.md)
   * [12 - December 2024](osint-ezine/2024/12-december-2024.md)
   * [11 - November 2024](osint-ezine/2024/11-november-2024.md)
