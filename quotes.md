@@ -6,6 +6,12 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 ***
 
+_Open your arms to change, but don't let go of your values._
+
+_\~14th Dalai Lama, Tibetan Spiritual Leader._
+
+***
+
 _The fear isn't that big data discriminates. We already know that it does. It's that you don't know if you've been discriminated against._
 
 _\~Kate Crawford, Australian AI researcher._
