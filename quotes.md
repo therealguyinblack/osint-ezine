@@ -4,6 +4,14 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 # ✍️ Quotes
 
+
+
+***
+
+_Research is formalized curiosity. It is poking and prying with a purpose.._
+
+_\~Zora Neale Hurston, American anthropologist and writer._
+
 ***
 
 _Open your arms to change, but don't let go of your values._
