@@ -6,6 +6,10 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 
 
+_Our aim is to develop affectionate robots that can make people smile._
+
+_\~Masayoshi Son, Japanese businessman._
+
 ***
 
 _Research is formalized curiosity. It is poking and prying with a purpose.._
