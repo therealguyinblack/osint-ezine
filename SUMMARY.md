@@ -4,6 +4,7 @@
 
 * [🥷 -](README.md)
 * [2025](osint-ezine/2025/README.md)
+  * [04 - April 2025](osint-ezine/2025/04-april-2025.md)
   * [03 - March 2025](osint-ezine/2025/03-march-2025.md)
   * [02 - February 2025](osint-ezine/2025/02-february-2025.md)
   * [01 - January 2025](osint-ezine/2025/01-january-2025.md)
