@@ -4,7 +4,11 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 # ✍️ Quotes
 
+_Doing is a quantum leap from imaging._
 
+_\~Barbara Sher, American businesswoman._
+
+***
 
 _Our aim is to develop affectionate robots that can make people smile._
 
