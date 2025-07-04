@@ -4,6 +4,14 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 # ✍️ Quotes
 
+***
+
+_The defence, like the attack, is a team effort; everyone has to participate._
+
+_\~Hansi Flick, German football manager._
+
+***
+
 _Doing is a quantum leap from imaging._
 
 _\~Barbara Sher, American businesswoman._
