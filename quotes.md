@@ -4,6 +4,14 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 # ✍️ Quotes
 
+
+
+***
+
+_The magical thinking encouraged by any belief in the supernatural, combined with the vilification of rationality and skepticism, is more conducive to conspiracy theories than it is to productive political debate._
+
+_\~Wendy Kaminer, American lawyer and writer._
+
 ***
 
 _The defence, like the attack, is a team effort; everyone has to participate._
