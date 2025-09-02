@@ -4,7 +4,11 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 # ✍️ Quotes
 
+***
 
+_The price of freedom is eternal vigilance._
+
+_\~Thomas Jefferson, American statesman._
 
 ***
 
