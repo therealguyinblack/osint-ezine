@@ -6,6 +6,12 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 ***
 
+_Robots will not replace humans, but will become companions and partners that help us to achieve more than we could alone._
+
+_\~Cynthia Breazeal, American scientist._
+
+***
+
 _The price of freedom is eternal vigilance._
 
 _\~Thomas Jefferson, American statesman._
