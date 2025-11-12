@@ -1,4 +1,4 @@
-# 10 - October
+# 10 - October 2025
 
 <figure><img src="../../.gitbook/assets/OSINTeZine_2025_10.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -6,24 +6,24 @@ Welcome to the October issue of the OSINT eZine ([_#56_](https://therealguyinbla
 
 Hey Ho, Lets Go!:
 
-* [AI: **Copilot on Windows Working with your Files.**](10-october.md#ai-copilot-on-windows-working-with-your-files)
-* [Crypto: **KYC in Crypto.**](10-october.md#crypto-kyc-in-crypto)
-* [Crypto: **Crypto is King.**](10-october.md#crypto-crypto-is-king)
-* [Learning: **Phone Tracking Secrets.**](10-october.md#learning-phone-tracking-secrets)
-* [Learning: **Legendary\_OSINT.**](10-october.md#learning-legendary_osint)
-* [Learning: **Cybercrime and Counterintelligence.**](10-october.md#learning-cybercrime-and-counterintelligence)
-* [Learning: **Islamic State Information Technology Series.**](10-october.md#learning-islamic-state-information-technology-series)
-* [News: **Discord Age Verification Breach.**](10-october.md#news-discord-age-verification-breach)
-* [News: **EU Finds TikTok and Meta Breach Transparency Obligations.**](10-october.md#news-eu-finds-tiktok-and-meta-breach-transparency-obligations)
-* [News: **ICC Moves to Open-Source Office Suite.**](10-october.md#news-icc-moves-to-open-source-office-suite)
-* [Privacy: **Microsoft Tracks Copilot AI Usage.**](10-october.md#privacy-microsoft-tracks-copilot-ai-usage)
-* [Privacy: **“I Have Nothing to Hide”.**](10-october.md#privacy-i-have-nothing-to-hide)
-* [Techniques: **OSINTBox.**](10-october.md#techniques-osintbox)
-* [Techniques: **Russia’s Grain-Smuggling Fleet.**](10-october.md#techniques-russias-grain-smuggling-fleet)
-* [Techniques: **Handling Digital Evidence – Forensic OSINT Guide.**](10-october.md#techniques-handling-digital-evidence-forensic-osint-guide)
-* [Tools: **VERT.**](10-october.md#tools-vert)
-* [Tools: **Nmap Network Scanning Update.**](10-october.md#tools-nmap-network-scanning-update)
-* [Tools: **Flowsint.**](10-october.md#tools-flowsint)
+* [AI: **Copilot on Windows Working with your Files.**](10-october-2025.md#ai-copilot-on-windows-working-with-your-files)
+* [Crypto: **KYC in Crypto.**](10-october-2025.md#crypto-kyc-in-crypto)
+* [Crypto: **Crypto is King.**](10-october-2025.md#crypto-crypto-is-king)
+* [Learning: **Phone Tracking Secrets.**](10-october-2025.md#learning-phone-tracking-secrets)
+* [Learning: **Legendary\_OSINT.**](10-october-2025.md#learning-legendary_osint)
+* [Learning: **Cybercrime and Counterintelligence.**](10-october-2025.md#learning-cybercrime-and-counterintelligence)
+* [Learning: **Islamic State Information Technology Series.**](10-october-2025.md#learning-islamic-state-information-technology-series)
+* [News: **Discord Age Verification Breach.**](10-october-2025.md#news-discord-age-verification-breach)
+* [News: **EU Finds TikTok and Meta Breach Transparency Obligations.**](10-october-2025.md#news-eu-finds-tiktok-and-meta-breach-transparency-obligations)
+* [News: **ICC Moves to Open-Source Office Suite.**](10-october-2025.md#news-icc-moves-to-open-source-office-suite)
+* [Privacy: **Microsoft Tracks Copilot AI Usage.**](10-october-2025.md#privacy-microsoft-tracks-copilot-ai-usage)
+* [Privacy: **“I Have Nothing to Hide”.**](10-october-2025.md#privacy-i-have-nothing-to-hide)
+* [Techniques: **OSINTBox.**](10-october-2025.md#techniques-osintbox)
+* [Techniques: **Russia’s Grain-Smuggling Fleet.**](10-october-2025.md#techniques-russias-grain-smuggling-fleet)
+* [Techniques: **Handling Digital Evidence – Forensic OSINT Guide.**](10-october-2025.md#techniques-handling-digital-evidence-forensic-osint-guide)
+* [Tools: **VERT.**](10-october-2025.md#tools-vert)
+* [Tools: **Nmap Network Scanning Update.**](10-october-2025.md#tools-nmap-network-scanning-update)
+* [Tools: **Flowsint.**](10-october-2025.md#tools-flowsint)
 
 ***
 
