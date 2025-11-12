@@ -6,6 +6,12 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 ***
 
+_“We all have our time machines. Some take us back, they’re called memories. Some take us forward, they’re called dreams”_
+
+_\~ H. G. Wells, English writer._
+
+***
+
 _Robots will not replace humans, but will become companions and partners that help us to achieve more than we could alone._
 
 _\~Cynthia Breazeal, American scientist._
