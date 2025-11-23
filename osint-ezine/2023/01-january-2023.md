@@ -24,8 +24,7 @@ Hey Ho, Lets Go!:
 
 After “_The Merge_” on September 2022, the Shanghai update has been announced for March 2023. This update introduces two new features that would impact how Ethereum market behaves, the first one is the withdrawals of staked ETH (EIP-4895) the second feature, should speed up transactions using external layer-2 blockchains through a mechanism called proto-danksharding (EIP-4844).
 
-[https://ethereum.org/en/upgrades/](https://ethereum.org/en/upgrades/)\
-
+[https://ethereum.org/en/upgrades/](https://ethereum.org/en/upgrades/)<br>
 
 ***
 
@@ -33,8 +32,7 @@ After “_The Merge_” on September 2022, the Shanghai update has been announce
 
 _Vitalik Buterin_ has published a proposal concept to use stealth addresses in Ethereum. A very interesting concept to defend privacy but a future issue for investigators, as stealth addresses are one of the main components of privacy coins such as Monero.
 
-[https://vitalik.ca/general/2023/01/20/stealth.html](https://vitalik.ca/general/2023/01/20/stealth.html)\
-
+[https://vitalik.ca/general/2023/01/20/stealth.html](https://vitalik.ca/general/2023/01/20/stealth.html)<br>
 
 ***
 
@@ -42,8 +40,7 @@ _Vitalik Buterin_ has published a proposal concept to use stealth addresses in E
 
 From all the uses available of ChatGPT, the malware sector is making good use of it. In my opinion, ChatGPT, can be better used to correct code and to expand it rather to create it from scratch, but we cannot ignore that bad actors can leverage it for malicious purposes.
 
-[https://www.hackread.com/hackers-openai-chatgpt-malware/](https://www.hackread.com/hackers-openai-chatgpt-malware/)\
-
+[https://www.hackread.com/hackers-openai-chatgpt-malware/](https://www.hackread.com/hackers-openai-chatgpt-malware/)<br>
 
 ***
 
@@ -51,8 +48,7 @@ From all the uses available of ChatGPT, the malware sector is making good use of
 
 Chinese researchers claimed the possibility of breaking the RSA algorithm using quantum computing. Yet to be developed, tested and proved, RSA is massively adopted in many applications such as the SSL certificates that protect us from visiting malicious websites or secure network connections using the TLS protocol.
 
-[https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html](https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html)\
-
+[https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html](https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html)<br>
 
 ***
 
@@ -60,8 +56,7 @@ Chinese researchers claimed the possibility of breaking the RSA algorithm using 
 
 An article about a TikTok user that is specialized in consensual doxxing of users of the platforms. She is reached by individuals in order for her to find information about users consensually. In the end, more creative uses (and ways to obtain revenue) of OSINT.
 
-[https://www.businessinsider.com/i-got-popular-on-tiktok-by-doxxing-people-with-permission-2022-12](https://www.businessinsider.com/i-got-popular-on-tiktok-by-doxxing-people-with-permission-2022-12)\
-
+[https://www.businessinsider.com/i-got-popular-on-tiktok-by-doxxing-people-with-permission-2022-12](https://www.businessinsider.com/i-got-popular-on-tiktok-by-doxxing-people-with-permission-2022-12)<br>
 
 ***
 
@@ -69,8 +64,7 @@ An article about a TikTok user that is specialized in consensual doxxing of user
 
 Another recent breach, Twitter this time, was exposed last month. In this GitHub repo we can find all the email providers affected by the breach, very useful to build dictionaries or brute-force lists.
 
-[https://github.com/ArgeliusLabs/BreachInfo/blob/main/twitter\_email\_domain\_histogram\_1\_4\_23.txt](https://github.com/ArgeliusLabs/BreachInfo/blob/main/twitter_email_domain_histogram_1_4_23.txt)\
-
+[https://github.com/ArgeliusLabs/BreachInfo/blob/main/twitter\_email\_domain\_histogram\_1\_4\_23.txt](https://github.com/ArgeliusLabs/BreachInfo/blob/main/twitter_email_domain_histogram_1_4_23.txt)<br>
 
 ***
 
@@ -78,8 +72,7 @@ Another recent breach, Twitter this time, was exposed last month. In this GitHub
 
 Some methodologies on how to look for the changes on usernames of specific profiles. It is very relevant for some platforms, like Steam or Twitter, where users can change their username across time.
 
-[https://medium.com/@cyb\_detective/how-to-view-the-history-of-a-social-media-profile-name-using-the-archive-org-cdx-api-4-steps-guide-a900cae72410](https://medium.com/@cyb_detective/how-to-view-the-history-of-a-social-media-profile-name-using-the-archive-org-cdx-api-4-steps-guide-a900cae72410)\
-
+[https://medium.com/@cyb\_detective/how-to-view-the-history-of-a-social-media-profile-name-using-the-archive-org-cdx-api-4-steps-guide-a900cae72410](https://medium.com/@cyb_detective/how-to-view-the-history-of-a-social-media-profile-name-using-the-archive-org-cdx-api-4-steps-guide-a900cae72410)<br>
 
 ***
 
@@ -87,8 +80,7 @@ Some methodologies on how to look for the changes on usernames of specific profi
 
 Do you ever wanted to have your own Archive-style data repository? Archivebox allows you to store and keep track of URLs in the same style as Archive.org wayback machine. It can be programmed for scheduled fetching, making it the perfect candidate for ingesting multiple sites for monitoring.
 
-[https://archivebox.io/](https://archivebox.io/)\
-
+[https://archivebox.io/](https://archivebox.io/)<br>
 
 ***
 
@@ -96,8 +88,7 @@ Do you ever wanted to have your own Archive-style data repository? Archivebox al
 
 Yet another OSINT tool to look for usernames (we have like thousands of them) but this specific one is working pretty accurate and at the same time, it provides more than 300 to look for. As always, the tool is in Python so if you have Maltego... you know ;)
 
-[https://github.com/thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil)\
-
+[https://github.com/thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil)<br>
 
 ***
 
@@ -105,8 +96,7 @@ Yet another OSINT tool to look for usernames (we have like thousands of them) bu
 
 I was always wondering why no one decided to compile in one place, like a map, all the different public APIs, services and endpoints with relevant information like city cameras, wireless networks... till now. OSS (Open Source Surveillance) does exactly that, providing a variety of different sources such as public cameras, IoT, traffic, weather, Twitter, Snapchat, Instagram, Flicker and much more.
 
-[https://www.offensiveosint.io/offensive-osint-s04e04-open-source-surveillance/](https://www.offensiveosint.io/offensive-osint-s04e04-open-source-surveillance/)\
-
+[https://www.offensiveosint.io/offensive-osint-s04e04-open-source-surveillance/](https://www.offensiveosint.io/offensive-osint-s04e04-open-source-surveillance/)<br>
 
 ***
 
@@ -114,8 +104,7 @@ I was always wondering why no one decided to compile in one place, like a map, a
 
 In some cases, GitHub is a pile of gold. I have successfully discover very relevant information in my investigations coming from this platform. Octosuite is a tool that can grab for you information about users, organizations and repositories.
 
-[https://www.bellingcat.com/resources/2023/01/20/octosuite-a-new-tool-to-conduct-open-source-investigations-on-github/](https://www.bellingcat.com/resources/2023/01/20/octosuite-a-new-tool-to-conduct-open-source-investigations-on-github/)\
-
+[https://www.bellingcat.com/resources/2023/01/20/octosuite-a-new-tool-to-conduct-open-source-investigations-on-github/](https://www.bellingcat.com/resources/2023/01/20/octosuite-a-new-tool-to-conduct-open-source-investigations-on-github/)<br>
 
 ***
 
@@ -123,8 +112,7 @@ In some cases, GitHub is a pile of gold. I have successfully discover very relev
 
 Thanks to a clever usage of the Bitcoin scripting latest updates, a new project called Ordinals has arisen to provide the possibly of creating NFTs in Bitcoin. Due to how the space that allocates the data is used, and the possible implication it can have regarding fees to miners and other aspects, it is causing a lot of controversy about it's use.
 
-[https://www.coindesk.com/tech/2023/01/31/bitcoin-community-erupts-in-existential-debate-over-nft-project-ordinals/](https://www.coindesk.com/tech/2023/01/31/bitcoin-community-erupts-in-existential-debate-over-nft-project-ordinals/)\
-
+[https://www.coindesk.com/tech/2023/01/31/bitcoin-community-erupts-in-existential-debate-over-nft-project-ordinals/](https://www.coindesk.com/tech/2023/01/31/bitcoin-community-erupts-in-existential-debate-over-nft-project-ordinals/)<br>
 
 ***
 

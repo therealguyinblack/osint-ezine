@@ -26,8 +26,7 @@ Hey Ho, Lets Go!:
 
 Who Am I is an Open Source Intelligence user-friendly Chrome extension designed to simplify the process of verifying the existence of usernames across various websites.
 
-[https://chrome.google.com/webstore/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo](https://chrome.google.com/webstore/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo)\
-
+[https://chrome.google.com/webstore/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo](https://chrome.google.com/webstore/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo)<br>
 
 ***
 
@@ -35,8 +34,7 @@ Who Am I is an Open Source Intelligence user-friendly Chrome extension designed 
 
 Brave Leo is an AI assistant built into the Brave browser that allows you to ask questions and get answers without leaving the page. It offers unparalleled privacy, as it does not record or share chats or use them for model training. You can ask Leo to summarize webpages, translate them, and more.
 
-[https://brave.com/leo/](https://brave.com/leo/)\
-
+[https://brave.com/leo/](https://brave.com/leo/)<br>
 
 ***
 
@@ -44,8 +42,7 @@ Brave Leo is an AI assistant built into the Brave browser that allows you to ask
 
 Google has introduced Gemini, its AI model. Gemini is a multimodal model that can understand and process text, images, audio, and video, and it has surpassed human performance on several benchmarks. It has potential to revolutionize many fields, including science, finance, and coding and it's another competitor on the AI landscape.
 
-[https://blog.google/technology/ai/google-gemini-ai/](https://blog.google/technology/ai/google-gemini-ai/) [https://decrypt.co/208845/beyond-bard-google-launches-gemini-a-multimodal-ai-to-challenge-chatgpt](https://decrypt.co/208845/beyond-bard-google-launches-gemini-a-multimodal-ai-to-challenge-chatgpt)\
-
+[https://blog.google/technology/ai/google-gemini-ai/](https://blog.google/technology/ai/google-gemini-ai/) [https://decrypt.co/208845/beyond-bard-google-launches-gemini-a-multimodal-ai-to-challenge-chatgpt](https://decrypt.co/208845/beyond-bard-google-launches-gemini-a-multimodal-ai-to-challenge-chatgpt)<br>
 
 ***
 
@@ -53,8 +50,7 @@ Google has introduced Gemini, its AI model. Gemini is a multimodal model that ca
 
 **Etherscan** ([https://etherscan.io](https://etherscan.io)), the most used blockchain explorer, has implemented a very useful functionality to check the balance of any given Ethereum address at any given time.
 
-[https://etherscan.io/balancecheck-tool](https://etherscan.io/balancecheck-tool)\
-
+[https://etherscan.io/balancecheck-tool](https://etherscan.io/balancecheck-tool)<br>
 
 ***
 
@@ -62,8 +58,7 @@ Google has introduced Gemini, its AI model. Gemini is a multimodal model that ca
 
 A complete directory of companies and open source projects building tools to store, retrieve, analyze, and/or visualize Blockchain Data or Generative AI.
 
-[https://www.primodata.org](https://www.primodata.org)\
-
+[https://www.primodata.org](https://www.primodata.org)<br>
 
 ***
 
@@ -71,8 +66,7 @@ A complete directory of companies and open source projects building tools to sto
 
 EIP-4844 or Proto-Danksharding, is an upcoming upgrade to the Ethereum network that will improve scalability and reduce transaction fees. It will introduce "blob-carrying transactions" to efficiently manage large data and pave the way for future full sharding implementation. This article explains in simple terms how it works and the new capabilities that it will bring to Ethereum.
 
-[https://labrys.io/insights/eip-4844-proto-danksharding](https://labrys.io/insights/eip-4844-proto-danksharding)\
-
+[https://labrys.io/insights/eip-4844-proto-danksharding](https://labrys.io/insights/eip-4844-proto-danksharding)<br>
 
 ***
 
@@ -88,8 +82,7 @@ An investigation by the Stanford Internet Observatory found that popular AI text
 
 Cloudflare published their yearly review of internet services. a ranking with the top accessed platforms worldwide on different categories such as Generative AI, Social Media, News, Messaging, Metaverse or Cryptocurrency services.
 
-[https://blog.cloudflare.com/radar-2023-year-in-review-internet-services/](https://blog.cloudflare.com/radar-2023-year-in-review-internet-services/)\
-
+[https://blog.cloudflare.com/radar-2023-year-in-review-internet-services/](https://blog.cloudflare.com/radar-2023-year-in-review-internet-services/)<br>
 
 ***
 
@@ -97,8 +90,7 @@ Cloudflare published their yearly review of internet services. a ranking with th
 
 If you thought that when using "Incognito Mode" no one will know about when watching videos about sumo fighters singing opera, Google has agreed to settle a lawsuit claiming it secretly tracked the internet use of millions of people who thought they were doing their browsing privately.
 
-[https://www.theguardian.com/technology/2023/dec/29/google-lawsuit-settlement-incognito-mode](https://www.theguardian.com/technology/2023/dec/29/google-lawsuit-settlement-incognito-mode)\
-
+[https://www.theguardian.com/technology/2023/dec/29/google-lawsuit-settlement-incognito-mode](https://www.theguardian.com/technology/2023/dec/29/google-lawsuit-settlement-incognito-mode)<br>
 
 ***
 
@@ -106,8 +98,7 @@ If you thought that when using "Incognito Mode" no one will know about when watc
 
 To protect our identity when investigating, a VPN is an essential (compulsory) component. The article discusses WireGuard and OpenVPN, two popular VPN protocols. WireGuard is a newer, faster, and more secure protocol that aims to provide better performance and reliability whereas OpenVPN is a more established protocol with a larger user base and a proven track record.
 
-[https://restoreprivacy.com/vpn/wireguard-vs-openvpn/](https://restoreprivacy.com/vpn/wireguard-vs-openvpn/)\
-
+[https://restoreprivacy.com/vpn/wireguard-vs-openvpn/](https://restoreprivacy.com/vpn/wireguard-vs-openvpn/)<br>
 
 ***
 
@@ -115,8 +106,7 @@ To protect our identity when investigating, a VPN is an essential (compulsory) c
 
 Maltego published an article about maintaining anonymity during investigations. The text highlights the importance of anonymity for investigators, the consequences of data exposure, and the measures that can be taken to maintain anonymity
 
-[https://www.maltego.com/blog/staying-anonymous-during-your-investigation-with-maltego/](https://www.maltego.com/blog/staying-anonymous-during-your-investigation-with-maltego/)\
-
+[https://www.maltego.com/blog/staying-anonymous-during-your-investigation-with-maltego/](https://www.maltego.com/blog/staying-anonymous-during-your-investigation-with-maltego/)<br>
 
 ***
 
@@ -124,8 +114,7 @@ Maltego published an article about maintaining anonymity during investigations. 
 
 An article that discusses web fingerprinting, a method of tracking users across multiple browsing sessions even if they clear their browsing history and data. It highlights how companies are using this technique to uniquely identify users and track their browsing activities, even in private browsing modes.
 
-[https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)\
-
+[https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)<br>
 
 ***
 

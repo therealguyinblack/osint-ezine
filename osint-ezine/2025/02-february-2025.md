@@ -25,8 +25,7 @@ Hey Ho, Lets Go!:
 * [Tools: **LinkdTime.**](02-february-2025.md#tools-linkdtime)
 * [Tools: **lla.**](02-february-2025.md#tools-lla)
 * [Tools: **Tookie.**](02-february-2025.md#tools-tookie)
-* [Web3: **Openvibe.**](02-february-2025.md#web3-openvibe)\
-
+* [Web3: **Openvibe.**](02-february-2025.md#web3-openvibe)<br>
 
 ***
 

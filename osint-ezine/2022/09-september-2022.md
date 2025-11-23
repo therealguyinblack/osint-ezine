@@ -24,8 +24,7 @@ Hey Ho, Lets Go!:
 
 This month I have discovered about the use of "traffic data" (netflow) by possibly US Law enforcement agencies. There is little information about it but it is very interesting to follow the track because some of the information that supposedly can offer can be very relevant on investigations:
 
-[https://haxf4rall.com/2022/09/24/us-agencies-are-buying-your-private-internet-data/](https://haxf4rall.com/2022/09/24/us-agencies-are-buying-your-private-internet-data/)\
-
+[https://haxf4rall.com/2022/09/24/us-agencies-are-buying-your-private-internet-data/](https://haxf4rall.com/2022/09/24/us-agencies-are-buying-your-private-internet-data/)<br>
 
 ***
 
@@ -33,8 +32,7 @@ This month I have discovered about the use of "traffic data" (netflow) by possib
 
 The well-known Facebook Identifier or FBID, is one of the key elements on any investigation regarding the platform. Facebook has announce their plans on changing it to "protect the privacy" of the users... the replacement will be Pseudonymized Facebook Identifiers (PFBIDs) and will combine timestamps and FBIDs to generate unique time-rotating identifiers:
 
-[https://about.fb.com/news/2022/09/deterring-scraping-by-protecting-facebook-identifiers/](https://about.fb.com/news/2022/09/deterring-scraping-by-protecting-facebook-identifiers/)\
-
+[https://about.fb.com/news/2022/09/deterring-scraping-by-protecting-facebook-identifiers/](https://about.fb.com/news/2022/09/deterring-scraping-by-protecting-facebook-identifiers/)<br>
 
 ***
 
@@ -42,8 +40,7 @@ The well-known Facebook Identifier or FBID, is one of the key elements on any in
 
 Iran has blocked the access to Signal to all its citizens. In this technical article, Signal details how a proxy can be set up to bypass the government censorship and allow its citizens to use Signal:
 
-[https://signal.org/blog/run-a-proxy/](https://signal.org/blog/run-a-proxy/)\
-
+[https://signal.org/blog/run-a-proxy/](https://signal.org/blog/run-a-proxy/)<br>
 
 ***
 
@@ -51,8 +48,7 @@ Iran has blocked the access to Signal to all its citizens. In this technical art
 
 Disinformation and fake news are going to be one of the trendy keywords of 2022. This study from Stanford University shows how different disinformation campaigns are built and what are the common elements on them:
 
-[https://stacks.stanford.edu/file/druid:nj914nx9540/unheard-voice-tt.pdf](https://stacks.stanford.edu/file/druid:nj914nx9540/unheard-voice-tt.pdf)\
-
+[https://stacks.stanford.edu/file/druid:nj914nx9540/unheard-voice-tt.pdf](https://stacks.stanford.edu/file/druid:nj914nx9540/unheard-voice-tt.pdf)<br>
 
 ***
 
@@ -60,8 +56,7 @@ Disinformation and fake news are going to be one of the trendy keywords of 2022.
 
 An updated website that contains multiple verification methods for analysing short links. It seems that almost all of them can be uncover adding the "+" (plus sign) at the end of the short link:
 
-[https://seintpl.github.io/osint/short-links-verification-cheatsheet](https://seintpl.github.io/osint/short-links-verification-cheatsheet)\
-
+[https://seintpl.github.io/osint/short-links-verification-cheatsheet](https://seintpl.github.io/osint/short-links-verification-cheatsheet)<br>
 
 ***
 
@@ -69,8 +64,7 @@ An updated website that contains multiple verification methods for analysing sho
 
 Another super interesting article by OsintMe regarding how to investigate individuals in a structured way but this time, from the privacy perspective:
 
-[https://www.osintme.com/index.php/2022/08/31/person-osint-investigation-workflow-from-a-privacy-perspective/](https://www.osintme.com/index.php/2022/08/31/person-osint-investigation-workflow-from-a-privacy-perspective/)\
-
+[https://www.osintme.com/index.php/2022/08/31/person-osint-investigation-workflow-from-a-privacy-perspective/](https://www.osintme.com/index.php/2022/08/31/person-osint-investigation-workflow-from-a-privacy-perspective/)<br>
 
 ***
 
@@ -79,8 +73,7 @@ Another super interesting article by OsintMe regarding how to investigate indivi
 Discord is one of the most relevant social platforms nowadays. Users can communicate using different means like text, voice or video calls.\
 BetterDiscord is a project/plugin that gives more capabilities to use the platform and from the OSINT side, the ability to enlarge avatars, save images in an easier way, expanded information about the users and a lot more:
 
-[https://betterdiscord.app/](https://betterdiscord.app/)\
-
+[https://betterdiscord.app/](https://betterdiscord.app/)<br>
 
 ***
 
@@ -88,8 +81,7 @@ BetterDiscord is a project/plugin that gives more capabilities to use the platfo
 
 An alternative to commercial tools like Hunchly when it is needed to record/store browsing sessions. Written in Python, this script can help to record the websites visited in a Firefox browsing session:
 
-[https://accentusoft.com/tutorials/recording-browser-sessions-with-100-lines-of-python/](https://accentusoft.com/tutorials/recording-browser-sessions-with-100-lines-of-python/)[https://github.com/AccentuSoft/FireWatch](https://github.com/AccentuSoft/FireWatch)\
-
+[https://accentusoft.com/tutorials/recording-browser-sessions-with-100-lines-of-python/](https://accentusoft.com/tutorials/recording-browser-sessions-with-100-lines-of-python/)[https://github.com/AccentuSoft/FireWatch](https://github.com/AccentuSoft/FireWatch)<br>
 
 ***
 
@@ -97,8 +89,7 @@ An alternative to commercial tools like Hunchly when it is needed to record/stor
 
 I have been using for some time this Twitter alternative and I have realized that is not very famous in the OSINT community. Nitter is an open source alternative to Twitter where you can see profiles without the need of login and also, extract content easily from the tweets:
 
-[https://nitter.net](https://nitter.net)\
-
+[https://nitter.net](https://nitter.net)<br>
 
 ***
 
@@ -106,8 +97,7 @@ I have been using for some time this Twitter alternative and I have realized tha
 
 Spevktator provides a combined live feed of 5 popular Russian news channels on VK, along with translations, sentiment analysis and visualization tools, all of which is accessible online, from anywhere (or offline if you prefer so). The project currently have an archive of over 67,000 posts, dating back to the beginning of February 2022:
 
-[https://github.com/MischaU8/spevktator](https://github.com/MischaU8/spevktator)\
-
+[https://github.com/MischaU8/spevktator](https://github.com/MischaU8/spevktator)<br>
 
 ***
 
@@ -115,8 +105,7 @@ Spevktator provides a combined live feed of 5 popular Russian news channels on V
 
 This month one of the biggest events in the crypto-space has taken place, The Merge. The Ethereum blockchain has transition from the PoW (proof-of-work) consensus algorithm to PoS (proof-of-stake). This step has put and end to mining and an improvement of the amount of electricity needed, reducing it at minimum. After all the benefits, a new doubt start to raise as decentralization seems to be impacted after the transition:
 
-[https://ethereum.org/en/upgrades/merge/](https://ethereum.org/en/upgrades/merge/)\
-
+[https://ethereum.org/en/upgrades/merge/](https://ethereum.org/en/upgrades/merge/)<br>
 
 ***
 

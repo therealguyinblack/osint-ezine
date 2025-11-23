@@ -153,8 +153,7 @@ Flightera provides free access to historical flight data dating back to 2017. Th
 
 ***
 
-\
-
+<br>
 
 _Robots will not replace humans, but will become companions and partners that help us to achieve more than we could alone._
 

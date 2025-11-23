@@ -24,8 +24,7 @@ Hey Ho, Lets Go!:
 
 The United States Securities and Exchange Commission (SEC) is pushing forward to legally control Ethereum. As around 45% of the nodes are based on United States, the SEC in a civil lawsuit stated that 45% of all Ethereum nodes are operated from U.S. so, they should have jurisdiction in the network transactions.
 
-[https://dailycoin.com/sec-implies-that-all-ethereum-eth-transactions-fall-under-u-s-jurisdiction/](https://dailycoin.com/sec-implies-that-all-ethereum-eth-transactions-fall-under-u-s-jurisdiction/)\
-
+[https://dailycoin.com/sec-implies-that-all-ethereum-eth-transactions-fall-under-u-s-jurisdiction/](https://dailycoin.com/sec-implies-that-all-ethereum-eth-transactions-fall-under-u-s-jurisdiction/)<br>
 
 ***
 
@@ -33,8 +32,7 @@ The United States Securities and Exchange Commission (SEC) is pushing forward to
 
 The Stanley Center for peace and security has published a paper that examines the implications of OSINT regarding ethics and how different terminologies can affect our final products, from the analysis part to the publication and dissemination. The last part contains several recommendations that can be of interest.
 
-[https://stanleycenter.org/publications/public-open-source-analysis-intelligence/](https://stanleycenter.org/publications/public-open-source-analysis-intelligence/)\
-
+[https://stanleycenter.org/publications/public-open-source-analysis-intelligence/](https://stanleycenter.org/publications/public-open-source-analysis-intelligence/)<br>
 
 ***
 
@@ -42,8 +40,7 @@ The Stanley Center for peace and security has published a paper that examines th
 
 The friends from Maltego present in this article a nice and clear definition of the different disciplines involved on the intelligence processes.
 
-[https://www.maltego.com/blog/understanding-the-different-types-of-intelligence-collection-disciplines/](https://www.maltego.com/blog/understanding-the-different-types-of-intelligence-collection-disciplines/)\
-
+[https://www.maltego.com/blog/understanding-the-different-types-of-intelligence-collection-disciplines/](https://www.maltego.com/blog/understanding-the-different-types-of-intelligence-collection-disciplines/)<br>
 
 ***
 
@@ -51,8 +48,7 @@ The friends from Maltego present in this article a nice and clear definition of 
 
 The biggest crypto-exchange in the world, Binance, has stated its intentions to create a team dedicated to help Twitter in its fight against bots. My advice, start to populate that sock accounts with zero posts ;)
 
-[https://www.reuters.com/technology/crypto-exchange-binance-musks-co-investor-help-twitter-with-blockchain-2022-10-28/](https://www.reuters.com/technology/crypto-exchange-binance-musks-co-investor-help-twitter-with-blockchain-2022-10-28/)\
-
+[https://www.reuters.com/technology/crypto-exchange-binance-musks-co-investor-help-twitter-with-blockchain-2022-10-28/](https://www.reuters.com/technology/crypto-exchange-binance-musks-co-investor-help-twitter-with-blockchain-2022-10-28/)<br>
 
 ***
 
@@ -60,8 +56,7 @@ The biggest crypto-exchange in the world, Binance, has stated its intentions to 
 
 The online video platform is launching "handles", a new way to identify channels. It consists on a unique identifier preceded by the "@" symbol (as used in other platforms like Twitter or TikTok) in order to make easier the discovery of content and creators.
 
-[https://blog.youtube/news-and-events/introducing-handles-a-new-way-to-identify-your-youtube-channel/](https://blog.youtube/news-and-events/introducing-handles-a-new-way-to-identify-your-youtube-channel/)\
-
+[https://blog.youtube/news-and-events/introducing-handles-a-new-way-to-identify-your-youtube-channel/](https://blog.youtube/news-and-events/introducing-handles-a-new-way-to-identify-your-youtube-channel/)<br>
 
 ***
 
@@ -69,8 +64,7 @@ The online video platform is launching "handles", a new way to identify channels
 
 LinkedIn will apply new detection capabilities like using AI to detect fake profiles. In an incoming update, new information will be publicly available for each profile like the creation date, if there is a validated work email and some more.
 
-[https://www.forbes.com/sites/emmawoollacott/2022/10/27/linkedin-wants-to-help-users-detect-and-report-fake-accounts](https://www.forbes.com/sites/emmawoollacott/2022/10/27/linkedin-wants-to-help-users-detect-and-report-fake-accounts)\
-
+[https://www.forbes.com/sites/emmawoollacott/2022/10/27/linkedin-wants-to-help-users-detect-and-report-fake-accounts](https://www.forbes.com/sites/emmawoollacott/2022/10/27/linkedin-wants-to-help-users-detect-and-report-fake-accounts)<br>
 
 ***
 
@@ -78,8 +72,7 @@ LinkedIn will apply new detection capabilities like using AI to detect fake prof
 
 I never thought about the possibility of tracking cars using parking apps. This whitepaper explains how to do it and how most of European countries are affected of this privacy issue.
 
-[https://notmyplate.com/whitepaper/](https://notmyplate.com/whitepaper/)\
-
+[https://notmyplate.com/whitepaper/](https://notmyplate.com/whitepaper/)<br>
 
 ***
 
@@ -87,8 +80,7 @@ I never thought about the possibility of tracking cars using parking apps. This 
 
 Another interesting geolocating "game" by Bellingcat. In this case, the were able to identify the exact position of the facilities where a team of Russian military personnel was programming missiles with only one photograph as resource.
 
-[https://www.bellingcat.com/resources/2022/10/28/how-we-geolocated-a-photo-of-a-russian-missile-programming-team/](https://www.bellingcat.com/resources/2022/10/28/how-we-geolocated-a-photo-of-a-russian-missile-programming-team/)\
-
+[https://www.bellingcat.com/resources/2022/10/28/how-we-geolocated-a-photo-of-a-russian-missile-programming-team/](https://www.bellingcat.com/resources/2022/10/28/how-we-geolocated-a-photo-of-a-russian-missile-programming-team/)<br>
 
 ***
 
@@ -96,8 +88,7 @@ Another interesting geolocating "game" by Bellingcat. In this case, the were abl
 
 An impressive compilation of resources to perform OSINT on mobile devices/networks.
 
-[https://github.com/CScorza/OSINT-FORENSICS-MOBILE](https://github.com/CScorza/OSINT-FORENSICS-MOBILE)\
-
+[https://github.com/CScorza/OSINT-FORENSICS-MOBILE](https://github.com/CScorza/OSINT-FORENSICS-MOBILE)<br>
 
 ***
 
@@ -105,8 +96,7 @@ An impressive compilation of resources to perform OSINT on mobile devices/networ
 
 An online platform which perform layer analysis on images. It extracts metadata, does steganography checks and gather more information from the most common image formats:
 
-[https://www.aperisolve.com/](https://www.aperisolve.com/)\
-
+[https://www.aperisolve.com/](https://www.aperisolve.com/)<br>
 
 ***
 
@@ -114,8 +104,7 @@ An online platform which perform layer analysis on images. It extracts metadata,
 
 This website allows you to mark a location and then, access to multiple resources to discover data from there. It includes the typical Google, Yandex and similar resources with some additions like Twitter.
 
-[https://cipher387.github.io/quickgeolocationsearch/](https://cipher387.github.io/quickgeolocationsearch/)\
-
+[https://cipher387.github.io/quickgeolocationsearch/](https://cipher387.github.io/quickgeolocationsearch/)<br>
 
 ***
 

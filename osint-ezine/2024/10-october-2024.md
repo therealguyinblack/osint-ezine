@@ -32,8 +32,7 @@ Hey Ho, Lets Go!:
 
 Apple users outside the EU are starting to benefit from this month from the AI functionalities on their devices. Apple Intelligence provide features from writing tools to help refine your writing, to summarized notifications that surface what’s most important, to the ability to search for almost anything in your photos and videos by simply describing it. Bad times for EU users I guess...
 
-[https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/](https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/)\
-
+[https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/](https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/)<br>
 
 ***
 
@@ -41,8 +40,7 @@ Apple users outside the EU are starting to benefit from this month from the AI f
 
 There is an increase need to identify AI-generated content. From images to video or texts, AI content is achieving a degree of realism that it is difficult sometimes to distinguish between human or machine. Google has made a real-world demonstration, in chatbot responses, were they showcased the possibility to label and watermark AI produced material.
 
-[https://www.nature.com/articles/d41586-024-03462-7](https://www.nature.com/articles/d41586-024-03462-7)\
-
+[https://www.nature.com/articles/d41586-024-03462-7](https://www.nature.com/articles/d41586-024-03462-7)<br>
 
 ***
 
@@ -50,8 +48,7 @@ There is an increase need to identify AI-generated content. From images to video
 
 Another report by OpenAI, creators of ChatGPT, exploring how bad actors abused AI technologies to perform different operations such as influence campaigns.
 
-[https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update\_October-2024.pdf](https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update_October-2024.pdf)\
-
+[https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update\_October-2024.pdf](https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update_October-2024.pdf)<br>
 
 ***
 
@@ -59,8 +56,7 @@ Another report by OpenAI, creators of ChatGPT, exploring how bad actors abused A
 
 Google has officially integrated ENS (Ethereum Name Service), allowing users to search for any .eth name and check associated balances directly within Google Search. Google began its integration with Ethereum addresses in May 2023. The search giant introduced a feature allowing users to search for these addresses and view the ETH balances directly in search results and now, it is possible to perform that searches by using ENS names.
 
-[https://cryptopotato.com/eth-balance-display-now-available-in-google-search-results-following-ens-integration/](https://cryptopotato.com/eth-balance-display-now-available-in-google-search-results-following-ens-integration/)\
-
+[https://cryptopotato.com/eth-balance-display-now-available-in-google-search-results-following-ens-integration/](https://cryptopotato.com/eth-balance-display-now-available-in-google-search-results-following-ens-integration/)<br>
 
 ***
 
@@ -68,8 +64,7 @@ Google has officially integrated ENS (Ethereum Name Service), allowing users to 
 
 In July of this year, Coinbase and Polygon Labs co-hosted a round-table in Brussels, with public and private sector participants, industry, academics, researchers and policymakers, to address key policy questions related to decentralized finance (“DeFi”). They released a summary with some of the key aspects of the discussions.
 
-[https://polygon.technology/blog/key-takeaways-from-public-private-roundtable-on-defi-policy-in-the-eu](https://polygon.technology/blog/key-takeaways-from-public-private-roundtable-on-defi-policy-in-the-eu)\
-
+[https://polygon.technology/blog/key-takeaways-from-public-private-roundtable-on-defi-policy-in-the-eu](https://polygon.technology/blog/key-takeaways-from-public-private-roundtable-on-defi-policy-in-the-eu)<br>
 
 ***
 
@@ -77,8 +72,7 @@ In July of this year, Coinbase and Polygon Labs co-hosted a round-table in Bruss
 
 The field of misinformation is facing several challenges, from attacks on academic freedom to polarizing discourse about the nature and extent of the problem for elections and digital well-being. This article shares academic insights on the topic of misinformation and what resources can be used to combat it effectively.
 
-[https://misinforeview.hks.harvard.edu/article/misinformed-about-misinformation-on-the-polarizing-discourse-on-misinformation-and-its-consequences-for-the-field/](https://misinforeview.hks.harvard.edu/article/misinformed-about-misinformation-on-the-polarizing-discourse-on-misinformation-and-its-consequences-for-the-field/)\
-
+[https://misinforeview.hks.harvard.edu/article/misinformed-about-misinformation-on-the-polarizing-discourse-on-misinformation-and-its-consequences-for-the-field/](https://misinforeview.hks.harvard.edu/article/misinformed-about-misinformation-on-the-polarizing-discourse-on-misinformation-and-its-consequences-for-the-field/)<br>
 
 ***
 
@@ -86,8 +80,7 @@ The field of misinformation is facing several challenges, from attacks on academ
 
 An impressive report by the UN Office on Drugs and Crime (UNODC) titled "Transnational Organized Crime and the Convergence of Cyber-Enabled Fraud, Underground Banking, and Technological Innovation: A Shifting Threat Landscape". It covers a lot of techniques and methods used by cybercriminals to commit criminal acts, from money laundering with crypto-assets to the world of fake online casinos or scam romances. A must read for any expert or curious professional interested or dealing with cybercrime.
 
-[https://www.unodc.org/roseap/en/2024/10/cyberfraud-industry-expands-southeast-asia/story.html](https://www.unodc.org/roseap/en/2024/10/cyberfraud-industry-expands-southeast-asia/story.html)\
-
+[https://www.unodc.org/roseap/en/2024/10/cyberfraud-industry-expands-southeast-asia/story.html](https://www.unodc.org/roseap/en/2024/10/cyberfraud-industry-expands-southeast-asia/story.html)<br>
 
 ***
 
@@ -97,8 +90,7 @@ This entry has the two sides of the history. The first one, is an article from W
 
 [https://www.wired.com/story/neo-nazis-flee-telegram-encrypted-app-simplex/](https://www.wired.com/story/neo-nazis-flee-telegram-encrypted-app-simplex/)
 
-[https://simplex.chat/blog/20241016-wired-attack-on-privacy.html](https://simplex.chat/blog/20241016-wired-attack-on-privacy.html)\
-
+[https://simplex.chat/blog/20241016-wired-attack-on-privacy.html](https://simplex.chat/blog/20241016-wired-attack-on-privacy.html)<br>
 
 ***
 
@@ -106,8 +98,7 @@ This entry has the two sides of the history. The first one, is an article from W
 
 Another episode of relevant information disclosed on Strava, in this case, the security team of Emmanuel Macron. By browsing the public data shared by the President's security agents on the sports social network, the journalists of "Le Monde" were able to track some of the President's international movements, or even anticipate them. On their investigation, they found at least 12 members of his unit composed of gendarmes and police officers, to have published their performances in running on the social network (which records sports activities via GPS) with place of departure and place of arrival.
 
-[https://www.liberation.fr/politique/emmanuel-macron-pouvait-etre-piste-grace-a-ses-gardes-du-corps-sur-strava-revele-le-monde-20241027\_EF3BPJJ4DVC53DX6CRVBAY457U/](https://www.liberation.fr/politique/emmanuel-macron-pouvait-etre-piste-grace-a-ses-gardes-du-corps-sur-strava-revele-le-monde-20241027_EF3BPJJ4DVC53DX6CRVBAY457U/)\
-
+[https://www.liberation.fr/politique/emmanuel-macron-pouvait-etre-piste-grace-a-ses-gardes-du-corps-sur-strava-revele-le-monde-20241027\_EF3BPJJ4DVC53DX6CRVBAY457U/](https://www.liberation.fr/politique/emmanuel-macron-pouvait-etre-piste-grace-a-ses-gardes-du-corps-sur-strava-revele-le-monde-20241027_EF3BPJJ4DVC53DX6CRVBAY457U/)<br>
 
 ***
 
@@ -115,8 +106,7 @@ Another episode of relevant information disclosed on Strava, in this case, the s
 
 Google's latest flagship smartphone raises concerns about user privacy and security. It frequently transmits private user data to the tech giant before any app is installed. Moreover, the Cybernews research team has discovered that it potentially has remote management capabilities without user awareness or approval.
 
-[https://cybernews.com/security/google-pixel-9-phone-beams-data-and-awaits-commands/](https://cybernews.com/security/google-pixel-9-phone-beams-data-and-awaits-commands/)\
-
+[https://cybernews.com/security/google-pixel-9-phone-beams-data-and-awaits-commands/](https://cybernews.com/security/google-pixel-9-phone-beams-data-and-awaits-commands/)<br>
 
 ***
 
@@ -124,8 +114,7 @@ Google's latest flagship smartphone raises concerns about user privacy and secur
 
 We often hear the question, “Is my phone listening to me?” Generally, the answer is no, but the reason you may think that your phone is listening to you is actually quite complicated. The EFF (Electronic Frontier Foundation) has launched a new website called "Digital Rights Bytes" were they explain in detail these kind of topics.
 
-[https://www.digitalrightsbytes.org/topics/is-my-phone-listening-to-me](https://www.digitalrightsbytes.org/topics/is-my-phone-listening-to-me)\
-
+[https://www.digitalrightsbytes.org/topics/is-my-phone-listening-to-me](https://www.digitalrightsbytes.org/topics/is-my-phone-listening-to-me)<br>
 
 ***
 
@@ -133,8 +122,7 @@ We often hear the question, “Is my phone listening to me?” Generally, the an
 
 PQC (Post Quantum Cryptography) algorithms are already being rolled-up on different technologies, from instant messengers such as Signal to web-browsers like Brave. This post delves into the topic and provides several examples of software and platforms that already using these cryptographic advances.
 
-[https://www.domaintools.com/resources/blog/post-quantum-cryptography-pqc-you-may-already-be-using-it/](https://www.domaintools.com/resources/blog/post-quantum-cryptography-pqc-you-may-already-be-using-it/)\
-
+[https://www.domaintools.com/resources/blog/post-quantum-cryptography-pqc-you-may-already-be-using-it/](https://www.domaintools.com/resources/blog/post-quantum-cryptography-pqc-you-may-already-be-using-it/)<br>
 
 ***
 
@@ -142,8 +130,7 @@ PQC (Post Quantum Cryptography) algorithms are already being rolled-up on differ
 
 This blog post covers extensively the topic of mobile advertising data. Based on portable devices Advertisement ID or AdID, this technologies allows companies and data brokers to create profiles of users with data such as localization, language or applications used.
 
-[https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/)\
-
+[https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/)<br>
 
 ***
 
@@ -151,8 +138,7 @@ This blog post covers extensively the topic of mobile advertising data. Based on
 
 In the largest public analysis of Israeli military strike footage, Airwars, in collaboration with Sky News, reviewed hundreds of clips of strikes the IDF said were targeting Hamas and other militant groups in Gaza that were posted on official military social media accounts in the first month of the war. Despite the grainy videos published with few details on targets or locations, Airwars matched 17 strikes to specific Geo-coordinates.
 
-[https://idf-tweets-gaza.airwars.org/](https://idf-tweets-gaza.airwars.org/)\
-
+[https://idf-tweets-gaza.airwars.org/](https://idf-tweets-gaza.airwars.org/)<br>
 
 ***
 
@@ -160,8 +146,7 @@ In the largest public analysis of Israeli military strike footage, Airwars, in c
 
 A lot of different resources and techniques to improve your skills to investigate geolocation information. This blog post covers tools and online resources that can help you to enhance your searches when performing investigations on geolocation and location data.
 
-[https://plessas.net/blog/2024/9/30/investigating-geolocation-metadata-and-implicit-location-data-tips-tricks-and-tools](https://plessas.net/blog/2024/9/30/investigating-geolocation-metadata-and-implicit-location-data-tips-tricks-and-tools)\
-
+[https://plessas.net/blog/2024/9/30/investigating-geolocation-metadata-and-implicit-location-data-tips-tricks-and-tools](https://plessas.net/blog/2024/9/30/investigating-geolocation-metadata-and-implicit-location-data-tips-tricks-and-tools)<br>
 
 ***
 
@@ -169,8 +154,7 @@ A lot of different resources and techniques to improve your skills to investigat
 
 This research article talks about a phenomena we call a Social Media Overt Covert Reaction Network (SOCReN). This is a hidden network of people established solely through social media post reaction emojis. In this paper we talk about how it was discovered, it’s characteristics, ways to currently detect it, and who would find this information useful.
 
-[https://bsquaredintel.com/social-media-overt-covert-reaction-network/](https://bsquaredintel.com/social-media-overt-covert-reaction-network/)\
-
+[https://bsquaredintel.com/social-media-overt-covert-reaction-network/](https://bsquaredintel.com/social-media-overt-covert-reaction-network/)<br>
 
 ***
 
@@ -178,8 +162,7 @@ This research article talks about a phenomena we call a Social Media Overt Cover
 
 This article explores how OSINT and GEO-OSINT (geospatial OSINT) can be applied to identify Jonny Lee Miller’s apartment in Dumbo, Brooklyn, as reported during Angelina Jolie’s 2021 visit. With a mix of visual analysis, Google Earth, and Google Maps, this investigation shows the steps to gather location-based insights responsibly and effectively.
 
-[https://neospl0it.github.io/posts/osint-trace-celebrity-location-angelina-jolie-jonny-lee-miller-dumbo-brooklyn/](https://neospl0it.github.io/posts/osint-trace-celebrity-location-angelina-jolie-jonny-lee-miller-dumbo-brooklyn/)\
-
+[https://neospl0it.github.io/posts/osint-trace-celebrity-location-angelina-jolie-jonny-lee-miller-dumbo-brooklyn/](https://neospl0it.github.io/posts/osint-trace-celebrity-location-angelina-jolie-jonny-lee-miller-dumbo-brooklyn/)<br>
 
 ***
 
@@ -187,8 +170,7 @@ This article explores how OSINT and GEO-OSINT (geospatial OSINT) can be applied 
 
 Domain Digger is a full toolkit for domain analysis. By using an attractive web interface, the tools allows to access detailed DNS information, get precise IP information and also, perform certificate checks and WHOIS.
 
-[https://github.com/wotschofsky/domain-digger](https://github.com/wotschofsky/domain-digger)\
-
+[https://github.com/wotschofsky/domain-digger](https://github.com/wotschofsky/domain-digger)<br>
 
 ***
 
@@ -196,8 +178,7 @@ Domain Digger is a full toolkit for domain analysis. By using an attractive web 
 
 Chain Traverser is a service that indexes the Ethereum blockchain in memory and provides graph data through an API. It enables users to explore transaction relationships and find paths between addresses on the Ethereum network.
 
-[https://dictynna.com/graph/orb](https://dictynna.com/graph/orb)\
-
+[https://dictynna.com/graph/orb](https://dictynna.com/graph/orb)<br>
 
 ***
 

@@ -25,8 +25,7 @@ Hey Ho, Lets Go!:
 
 From Cybersecurity to IoT or Data Science, CISCO offers free introductory trainings on several fields. They provide the trainings on different languages and they are very clear in order to provide the basic foundations of each topic.
 
-[https://skillsforall.com/catalog](https://skillsforall.com/catalog)\
-
+[https://skillsforall.com/catalog](https://skillsforall.com/catalog)<br>
 
 ***
 
@@ -34,8 +33,7 @@ From Cybersecurity to IoT or Data Science, CISCO offers free introductory traini
 
 Cloudflare has published a very detailed overview about Internet trends, attacks and resilience after one year of war in Ukraine. The post reports on Internet insights and discusses how Ukraine's Internet remained resilient in spite of dozens of disruptions in three different stages of the conflict.
 
-[https://blog.cloudflare.com/one-year-of-war-in-ukraine/](https://blog.cloudflare.com/one-year-of-war-in-ukraine/)\
-
+[https://blog.cloudflare.com/one-year-of-war-in-ukraine/](https://blog.cloudflare.com/one-year-of-war-in-ukraine/)<br>
 
 ***
 
@@ -43,8 +41,7 @@ Cloudflare has published a very detailed overview about Internet trends, attacks
 
 After more than 4 years, one of the biggest OSINT communities is coming to an end. The OSINT Curious Project (TOTP) will end its existence, in the meantime, the Discord server will be managed by the initial team of the community Searchlight. May the force be with you all OSINT Curious.
 
-[https://osintcurio.us/2023/02/27/our-last-post/](https://osintcurio.us/2023/02/27/our-last-post/)\
-
+[https://osintcurio.us/2023/02/27/our-last-post/](https://osintcurio.us/2023/02/27/our-last-post/)<br>
 
 ***
 
@@ -52,8 +49,7 @@ After more than 4 years, one of the biggest OSINT communities is coming to an en
 
 Meta is testing a subscription based verify option, like Twitter, for Instagram and Facebook. This "status" sign will require a government ID to be issued and will provide to its subscribers proactive account protection, access to account support, and increased visibility and reach.
 
-[https://about.fb.com/news/2023/02/testing-meta-verified-to-help-creators/](https://about.fb.com/news/2023/02/testing-meta-verified-to-help-creators/)\
-
+[https://about.fb.com/news/2023/02/testing-meta-verified-to-help-creators/](https://about.fb.com/news/2023/02/testing-meta-verified-to-help-creators/)<br>
 
 ***
 
@@ -61,8 +57,7 @@ Meta is testing a subscription based verify option, like Twitter, for Instagram 
 
 A new video/investigation from Forensic Architecture about the explosion in the port of Beirut in 2020. Forensic Architecture, an independent research agency, has released a video that looks into the causes and aftermath of the Beirut explosion and provides valuable resources and techniques for OSINT investigations:
 
-[https://forensic-architecture.org/investigation/the-beirut-port-explosion-the-welders](https://forensic-architecture.org/investigation/the-beirut-port-explosion-the-welders)\
-
+[https://forensic-architecture.org/investigation/the-beirut-port-explosion-the-welders](https://forensic-architecture.org/investigation/the-beirut-port-explosion-the-welders)<br>
 
 ***
 
@@ -70,8 +65,7 @@ A new video/investigation from Forensic Architecture about the explosion in the 
 
 The friends from OSINT Combine have updated their OSINT bookmarks compilation with more resources for conflict/fact-checking.
 
-[https://www.osintcombine.com/osint-bookmarks](https://www.osintcombine.com/osint-bookmarks)\
-
+[https://www.osintcombine.com/osint-bookmarks](https://www.osintcombine.com/osint-bookmarks)<br>
 
 ***
 
@@ -79,8 +73,7 @@ The friends from OSINT Combine have updated their OSINT bookmarks compilation wi
 
 Aljazeera Media Institute have released a handbook about OSINT. It contains different sections about foundations in OSINT providing examples on each of them.
 
-[https://institute.aljazeera.net/sites/default/files/2023/Open%20Source%20Investigation%20Handbook.pdf?title=Open%20Source%20Investigation%20](https://institute.aljazeera.net/sites/default/files/2023/Open%20Source%20Investigation%20Handbook.pdf?title=Open%20Source%20Investigation%20)\
-
+[https://institute.aljazeera.net/sites/default/files/2023/Open%20Source%20Investigation%20Handbook.pdf?title=Open%20Source%20Investigation%20](https://institute.aljazeera.net/sites/default/files/2023/Open%20Source%20Investigation%20Handbook.pdf?title=Open%20Source%20Investigation%20)<br>
 
 ***
 
@@ -88,8 +81,7 @@ Aljazeera Media Institute have released a handbook about OSINT. It contains diff
 
 The Chinese internet is full of alternative resources, search engines and data repositories. This post showcase some tools, tips and resources to dive in and bypass the so called "Great Firewall of China".
 
-[https://www.epcyber.com/post/searching-china-osint-way](https://www.epcyber.com/post/searching-china-osint-way)\
-
+[https://www.epcyber.com/post/searching-china-osint-way](https://www.epcyber.com/post/searching-china-osint-way)<br>
 
 ***
 
@@ -97,8 +89,7 @@ The Chinese internet is full of alternative resources, search engines and data r
 
 Apertium, another alternative to DeepL or Google Translate. It is an open-source project that translates from several languages including some that are not covered by Google.
 
-[https://apertium.org/index.eng.html](https://apertium.org/index.eng.html)\
-
+[https://apertium.org/index.eng.html](https://apertium.org/index.eng.html)<br>
 
 ***
 
@@ -106,8 +97,7 @@ Apertium, another alternative to DeepL or Google Translate. It is an open-source
 
 I had the need to convert several (hundreds) HTML files to PDFs in a simple and fast way in Linux CLI. I wanted an alternative to complex libraries so... ChatGPT (my new best friend) suggested me "wkhtmltopdf". An amazing open source project, simple and easy, that converts HTML files to PDF or images.
 
-[https://wkhtmltopdf.org/usage/wkhtmltopdf.txt](https://wkhtmltopdf.org/usage/wkhtmltopdf.txt)\
-
+[https://wkhtmltopdf.org/usage/wkhtmltopdf.txt](https://wkhtmltopdf.org/usage/wkhtmltopdf.txt)<br>
 
 ***
 
@@ -115,8 +105,7 @@ I had the need to convert several (hundreds) HTML files to PDFs in a simple and 
 
 APIs provide access to a wide amount of different data sources, from information about the weather to track airplanes or maritime vessels. This GitHub repo contains plenty of different public APIs to benefit from.
 
-[https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)\
-
+[https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)<br>
 
 ***
 
@@ -124,8 +113,7 @@ APIs provide access to a wide amount of different data sources, from information
 
 I was very skeptical to believe that a port scanner was able to do the entire range in 30 seconds... and I was wrong. RustScan uses a syntax very similar to Nmap to scan, with a bit of system tweaks, the entire range in a very fast time. It is also available as a Docker image but I had better response times using it directly from Linux.
 
-[https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan)\
-
+[https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan)<br>
 
 ***
 

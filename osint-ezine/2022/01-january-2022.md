@@ -22,8 +22,7 @@ Hey Ho, Lets Go!:
 
 The amazing tale of a test certificate and the Unix timestamp that traveled through time.
 
-[https://zerforschung.org/posts/djokovic-pcr-test-en/](https://zerforschung.org/posts/djokovic-pcr-test-en/)\
-
+[https://zerforschung.org/posts/djokovic-pcr-test-en/](https://zerforschung.org/posts/djokovic-pcr-test-en/)<br>
 
 ***
 
@@ -31,8 +30,7 @@ The amazing tale of a test certificate and the Unix timestamp that traveled thro
 
 This month in the privacy world, Apple surprises us with a guide on PDF format with several tips and settings to protect the safety and privacy of its users. It is very interesting and it seems that is totally aligned with different guides available in other sources, it contains different sections, covering topics like how to protect sharing content on Airdrop or how to check for AirTags using an "Android" device.
 
-[https://help.apple.com/pdf/personal-safety/en\_US/personal-safety-user-guide.pdf](https://help.apple.com/pdf/personal-safety/en\_US/personal-safety-user-guide.pdf)\
-
+[https://help.apple.com/pdf/personal-safety/en\_US/personal-safety-user-guide.pdf](https://help.apple.com/pdf/personal-safety/en_US/personal-safety-user-guide.pdf)<br>
 
 ***
 
@@ -40,8 +38,7 @@ This month in the privacy world, Apple surprises us with a guide on PDF format w
 
 This online service search for subreddits where users overlaps. Given a subreddit name, it will display based on the users on it, other subreddits that can be related. Very useful when performing investigations on different threads but you want to discover new resources.
 
-[https://subredditstats.com/subreddit-user-overlaps/](https://subredditstats.com/subreddit-user-overlaps/)\
-
+[https://subredditstats.com/subreddit-user-overlaps/](https://subredditstats.com/subreddit-user-overlaps/)<br>
 
 ***
 
@@ -49,8 +46,7 @@ This online service search for subreddits where users overlaps. Given a subreddi
 
 On this post the author shows some techniques to apply optical character recognition technologies (OCR), to frames coming from a Twitter video in Russian language using free OSINT resources.
 
-[https://medium.com/@aleksanderrr\_/russian-roulette-using-optical-text-recognition-to-investigate-military-equipment-transfers-29ddcb2e1c95](https://medium.com/@aleksanderrr\_/russian-roulette-using-optical-text-recognition-to-investigate-military-equipment-transfers-29ddcb2e1c95)\
-
+[https://medium.com/@aleksanderrr\_/russian-roulette-using-optical-text-recognition-to-investigate-military-equipment-transfers-29ddcb2e1c95](https://medium.com/@aleksanderrr_/russian-roulette-using-optical-text-recognition-to-investigate-military-equipment-transfers-29ddcb2e1c95)<br>
 
 ***
 
@@ -58,8 +54,7 @@ On this post the author shows some techniques to apply optical character recogni
 
 This Python tools is able to scrape uploaded files to AnonFile by provided query using Google Dorking.
 
-[https://github.com/370rokas/anonscraper](https://github.com/370rokas/anonscraper)\
-
+[https://github.com/370rokas/anonscraper](https://github.com/370rokas/anonscraper)<br>
 
 ***
 
@@ -67,8 +62,7 @@ This Python tools is able to scrape uploaded files to AnonFile by provided query
 
 An online service (seems to work better in Google Chrome) that is able to display different satellite images from different providers of a region of interest with the possibility of apply filters to the search like the provider or the amount of clouds in the sky among other features.
 
-[https://earthondemand.astraea.earth/](https://earthondemand.astraea.earth/)\
-
+[https://earthondemand.astraea.earth/](https://earthondemand.astraea.earth/)<br>
 
 ***
 
@@ -76,8 +70,7 @@ An online service (seems to work better in Google Chrome) that is able to displa
 
 Maigret is a well-known OSINT tool to check whether an email address is used on different social media platforms. The tool is not one hundred percent accurate and gives some false positives but is worthy to add it to our toolkit arsenal. This month was published on Maltego's blog a guide on how to install and use the Maltego Transform that makes use of Maigret. Personally I was using all this kind of tools with Maltego using custom transforms so the tutorial and the code can be used to allow you to create your own transforms for your tools.
 
-[https://www.maltego.com/blog/investigating-usernames-using-the-maigret-transform-for-maltego/](https://www.maltego.com/blog/investigating-usernames-using-the-maigret-transform-for-maltego/)\
-
+[https://www.maltego.com/blog/investigating-usernames-using-the-maigret-transform-for-maltego/](https://www.maltego.com/blog/investigating-usernames-using-the-maigret-transform-for-maltego/)<br>
 
 ***
 
@@ -85,8 +78,7 @@ Maigret is a well-known OSINT tool to check whether an email address is used on 
 
 Social Analyzer - API, CLI & Web App for analyzing and finding a person's profile across +1000 social media/websites. It includes different analysis and detection modules, and you can choose which modules to use during the investigation process.
 
-[https://github.com/qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)\
-
+[https://github.com/qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)<br>
 
 ***
 
@@ -94,8 +86,7 @@ Social Analyzer - API, CLI & Web App for analyzing and finding a person's profil
 
 An online service where the creators have divided the world into three-meter squares and gave each square a unique combination of three words. The easiest way to find and share exact locations. Greetings from **mull.suppers.arch**.
 
-[https://what3words.com](https://what3words.com)\
-
+[https://what3words.com](https://what3words.com)<br>
 
 ***
 
