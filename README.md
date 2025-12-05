@@ -7,7 +7,7 @@ coverY: 164.10666666666668
 
 
 
-|                                                                                      |                                                                                     | [![](.gitbook/assets/OSINTeZine_2025_10.png)](osint-ezine/2025/10-october-2025.md) |
+|                                                                                      | [![](.gitbook/assets/OSINTeZine_2025_11.png)](osint-ezine/2025/11-november-2025.md) | [![](.gitbook/assets/OSINTeZine_2025_10.png)](osint-ezine/2025/10-october-2025.md) |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [![](.gitbook/assets/OSINTeZine_2025_09.png)](osint-ezine/2025/09-september-2025.md) | [![](.gitbook/assets/OSINTeZine_2025_08.png)](osint-ezine/2025/08-august-2025.md)   | [![](.gitbook/assets/OSINTeZine_2025_07.png)](osint-ezine/2025/07-july-2025.md)    |
 | [![](.gitbook/assets/OSINTeZine_2025_06.png)](osint-ezine/2025/06-june-2025.md)      | [![](.gitbook/assets/OSINTeZine_2025_05.png)](osint-ezine/2025/05-may-2025.md)      | [![](.gitbook/assets/OSINTeZine_2025_04.png)](osint-ezine/2025/04-april-2025.md)   |
