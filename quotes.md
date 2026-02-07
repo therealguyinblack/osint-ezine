@@ -6,6 +6,12 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 ***
 
+_Knowledge makes people special. Knowledge enriches life itself._
+
+_\~Ben Carson, American Neurosurgeon and politician._
+
+***
+
 _If you don't see a clear path for what you want, sometimes you have to make it yourself._
 
 _\~Mindy Kaling, American Actress._
