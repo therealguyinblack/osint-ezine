@@ -88,7 +88,7 @@ A walkthrough of URL Dater, focused on estimating the age of a webpage or site u
 
 ### Techniques: Modern Dead Letters and OSINT Blind Spots
 
-A tradecraft-focused обзор of “dead letter” style covert communications adapted to modern platforms that do not look like communications infrastructure. It highlights patterns such as shared artefacts (draft folders, shared accounts) and signaling through consumer telemetry (loyalty apps, gaming ecosystems, fitness apps), then frames detection as behavioral analysis rather than content recovery. Particularly relevant for investigators looking beyond mainstream messaging and social platforms.
+A tradecraft-focused of “dead letter” style covert communications adapted to modern platforms that do not look like communications infrastructure. It highlights patterns such as shared artefacts (draft folders, shared accounts) and signaling through consumer telemetry (loyalty apps, gaming ecosystems, fitness apps), then frames detection as behavioral analysis rather than content recovery. Particularly relevant for investigators looking beyond mainstream messaging and social platforms.
 
 [https://osintimes.substack.com/p/getting-the-drop-on-modern-dead-letters](https://osintimes.substack.com/p/getting-the-drop-on-modern-dead-letters)
 
