@@ -6,6 +6,12 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 ***
 
+_Ignoring isn’t the same as ignorance, you have to work at it._
+
+_\~Margaret Atwood, Canadian Author._
+
+***
+
 _Knowledge makes people special. Knowledge enriches life itself._
 
 _\~Ben Carson, American Neurosurgeon and politician._

@@ -1,8 +1,14 @@
 # Table of contents
 
+## Group 1
+
+* [Page 1](README.md)
+
 ## 📰 OSINT eZine
 
-* [🥷 -](README.md)
+* [🥷 -](<README (1).md>)
+* [2026](osint-ezine/2026/README.md)
+  * [01 - January 2026](osint-ezine/2026/01-january-2026.md)
 * [2025](osint-ezine/2025/README.md)
   * [12 - December 2025](osint-ezine/2025/12-december-2025.md)
   * [11 - November 2025](osint-ezine/2025/11-november-2025.md)
