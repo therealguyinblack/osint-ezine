@@ -2,23 +2,6 @@
 cover: ../../.gitbook/assets/202306_01_header.png
 coverY: 0
 coverHeight: 387
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 202306\_01\_What-is-the-difference-between-a-Metaverse-and-a-Virtual-World?
