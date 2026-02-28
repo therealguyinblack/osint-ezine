@@ -6,6 +6,12 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 ***
 
+_Perhaps it's impossible to wear an identity without becoming what you pretend to be._
+
+_\~Orson Scott Card, American Author._
+
+***
+
 _Ignoring isn’t the same as ignorance, you have to work at it._
 
 _\~Margaret Atwood, Canadian Author._
