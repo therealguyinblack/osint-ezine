@@ -65,6 +65,7 @@
 * [💡 Articles](articles/README.md)
   * [Artificial Intelligence & Defence](articles/artificial-intelligence-and-defence/README.md)
     * [202305\_01\_Privacy-concerns-on-AI-powered-tools](articles/artificial-intelligence-and-defence/202305_01_privacy-concerns-on-ai-powered-tools.md)
+    * [202603\_01\_30-days-living-with-OpenClaw](articles/artificial-intelligence-and-defence/202603_01_30-days-living-with-openclaw.md)
   * [Defence Technology & Dual-Use Innovation](articles/defence-technology-and-dual-use-innovation.md)
   * [Cybersecurity & Digital Resilience](articles/cybersecurity-and-digital-resilience/README.md)
     * [202405\_01\_Challenges-of-End-to-End-Encryption](articles/cybersecurity-and-digital-resilience/202405_01_challenges-of-end-to-end-encryption.md)
