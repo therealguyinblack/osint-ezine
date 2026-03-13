@@ -12,7 +12,7 @@ Emerging technologies with defence relevance (quantum, drones, aerospace, autono
 
 Threats, protective measures, contingency planning, secure communication, encryption.
 
-### [**OSINT, Investigations & Cybercrime**](osint-investigations-and-cybercrime.md)
+### [**OSINT, Investigations & Cybercrime**](osint-investigations-and-cybercrime/)
 
 Open-source intelligence, investigative methods, fraud, platform abuse.
 

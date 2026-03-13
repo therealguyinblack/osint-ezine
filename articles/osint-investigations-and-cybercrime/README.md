@@ -7,3 +7,5 @@ description: >-
 
 # OSINT, Investigations & Cybercrime
 
+[2026\_03\_02\_AI\_Agents\_as\_OSINT\_Analysts](202603_02_ai_agents_as_osint_analysts.md)
+
