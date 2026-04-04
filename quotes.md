@@ -6,6 +6,12 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 ***
 
+_Success doesn’t count unless you earn it fair and square._
+
+_\~Michelle Obama, American Lawyer._
+
+***
+
 _Perhaps it's impossible to wear an identity without becoming what you pretend to be._
 
 _\~Orson Scott Card, American Author._
@@ -32,7 +38,7 @@ _\~Mindy Kaling, American Actress._
 
 _We all have our time machines. Some take us back, they’re called memories. Some take us forward, they’re called dreams._
 
-_\~ H. G. Wells, English writer._
+_\~H. G. Wells, English writer._
 
 ***
 
