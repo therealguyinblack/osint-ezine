@@ -4,6 +4,10 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 # ✍️ Quotes
 
+_Failure concentrates the mind wonderfully. If you don’t make mistakes, you’re not trying hard enough._
+
+_\~Jasper Fforde, Welsh Novelist._
+
 ***
 
 _Success doesn’t count unless you earn it fair and square._
