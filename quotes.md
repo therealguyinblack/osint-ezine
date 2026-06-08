@@ -4,6 +4,12 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 # ✍️ Quotes
 
+_Data is a tool for enhancing intuition._
+
+_\~Hilary Mason. American Data Scientist._
+
+***
+
 _Failure concentrates the mind wonderfully. If you don’t make mistakes, you’re not trying hard enough._
 
 _\~Jasper Fforde, Welsh Novelist._

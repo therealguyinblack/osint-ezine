@@ -1,11 +1,32 @@
 ---
 cover: .gitbook/assets/Untitled design.png
 coverY: 123.63692863595304
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🥷 eZines
 
-|                                                                                  |                                                                                     | [![](.gitbook/assets/OSINTeZine_2026_04.png)](osint-ezine/2026/04-april-2026.md)   |
+|                                                                                  | [![](.gitbook/assets/OSINTeZine_2026_05.png)](osint-ezine/2026/05-may-2026.md)      | [![](.gitbook/assets/OSINTeZine_2026_04.png)](osint-ezine/2026/04-april-2026.md)   |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [![](.gitbook/assets/OSINTeZine_2026_03.png)](osint-ezine/2026/03-march-2026.md) | [![](.gitbook/assets/OSINTeZine_2026_02.png)](osint-ezine/2026/02-february-2026.md) | [![](.gitbook/assets/OSINTeZine_2026_01.png)](osint-ezine/2026/01-january-2026.md) |
 
