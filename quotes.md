@@ -4,6 +4,18 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 # ✍️ Quotes
 
+_Our memory is and always will be as good as time travel gets, and in the meantime time will do the travelling for us._
+
+_\~Maria Konnikova, American writer._
+
+***
+
+_The difference between perseverance and obstinacy is that one comes from a strong will, and the other from a strong won’t._
+
+_\~Henry Ward Beecher, American speaker._
+
+***
+
 _Data is a tool for enhancing intuition._
 
 _\~Hilary Mason. American Data Scientist._

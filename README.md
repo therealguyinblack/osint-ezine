@@ -6,6 +6,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -26,9 +27,9 @@ layout:
 
 # 🥷 eZines
 
-| [![](.gitbook/assets/OSINTeZine_2026_06.png)](osint-ezine/2026/06-june-2026.md)  | [![](.gitbook/assets/OSINTeZine_2026_05.png)](osint-ezine/2026/05-may-2026.md)      | [![](.gitbook/assets/OSINTeZine_2026_04.png)](osint-ezine/2026/04-april-2026.md)   |
-| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [![](.gitbook/assets/OSINTeZine_2026_03.png)](osint-ezine/2026/03-march-2026.md) | [![](.gitbook/assets/OSINTeZine_2026_02.png)](osint-ezine/2026/02-february-2026.md) | [![](.gitbook/assets/OSINTeZine_2026_01.png)](osint-ezine/2026/01-january-2026.md) |
+<table data-header-hidden><thead><tr><th></th><th></th><th width="170"></th></tr></thead><tbody><tr><td></td><td></td><td><a href="osint-ezine/2026/07-july-2026.md"><img src=".gitbook/assets/OSINTeZine_2026_07.png" alt=""></a></td></tr><tr><td><a href="osint-ezine/2026/06-june-2026.md"><img src=".gitbook/assets/OSINTeZine_2026_06.png" alt=""></a></td><td><a href="osint-ezine/2026/05-may-2026.md"><img src=".gitbook/assets/OSINTeZine_2026_05.png" alt=""></a></td><td><a href="osint-ezine/2026/04-april-2026.md"><img src=".gitbook/assets/OSINTeZine_2026_04.png" alt=""></a></td></tr><tr><td><a href="osint-ezine/2026/03-march-2026.md"><img src=".gitbook/assets/OSINTeZine_2026_03.png" alt=""></a></td><td><a href="osint-ezine/2026/02-february-2026.md"><img src=".gitbook/assets/OSINTeZine_2026_02.png" alt=""></a></td><td><a href="osint-ezine/2026/01-january-2026.md"><img src=".gitbook/assets/OSINTeZine_2026_01.png" alt=""></a></td></tr></tbody></table>
+
+
 
 | [![](.gitbook/assets/OSINTeZine_2025_12.png)](osint-ezine/2025/12-december-2025.md)  | [![](.gitbook/assets/OSINTeZine_2025_11.png)](osint-ezine/2025/11-november-2025.md) | [![](.gitbook/assets/OSINTeZine_2025_10.png)](osint-ezine/2025/10-october-2025.md) |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |

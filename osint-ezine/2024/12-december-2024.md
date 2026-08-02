@@ -211,7 +211,7 @@ In addition to this figures, the _eZine_ has migrated to a new email domain and 
 ***
 
 \
-&#xNAN;_&#x53;uccess is a pile of failure that you are standing on._
+_&#x53;uccess is a pile of failure that you are standing on._
 
 _\~Dave Ramsey, American radio personality._
 
