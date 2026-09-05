@@ -4,6 +4,14 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 # ✍️ Quotes
 
+
+
+_Virtual reality, all the A.I. work we do, all the robotics work we do - we're as close to realizing science fiction as it gets._
+
+_\~Jensen Huang._
+
+***
+
 _Our memory is and always will be as good as time travel gets, and in the meantime time will do the travelling for us._
 
 _\~Maria Konnikova, American writer._
