@@ -6,6 +6,12 @@ description: All the quotes used on each issue of the OSINT eZine.
 
 
 
+_The goal is to turn data into information, and information into insight._
+
+_\~Carly Fiorina, American businesswoman and politician._
+
+***
+
 _Virtual reality, all the A.I. work we do, all the robotics work we do - we're as close to realizing science fiction as it gets._
 
 _\~Jensen Huang._
